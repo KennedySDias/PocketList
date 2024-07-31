@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PocketList"
 include(":app")
- 
+include(":infrastructure:designsystem")
